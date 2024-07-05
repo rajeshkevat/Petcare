@@ -270,6 +270,15 @@ color:  rgb(255, 255, 255);
                     width: 300px;
                 }
                 }
+
+@media only screen and (max-width:586px) {
+    #contact-btn{
+        margin-bottom: 25px;
+    }
+    #service-btn{
+        margin-bottom: 25px;
+    }
+}
                 /* 4th  -content */
 
                 #titleheading {
