@@ -278,6 +278,11 @@ color:  rgb(255, 255, 255);
     #service-btn{
         margin-bottom: 25px;
     }
+    
+    input.text-center{
+       
+        width: 340px;
+        height: 45px;
 }
                 /* 4th  -content */
 
